@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "RuiboQiu"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "RuiboQiu"
 description              : &description "personal description"
 url                      : https://QiuRuiBo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ruibo Qiu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "A graduate student majoring in computer science in ShenZhen University (SZU)."
+  location         : "ShenZhen, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "QiuRuiBo"
   google_plus      :
   keybase          :
   instagram        :
